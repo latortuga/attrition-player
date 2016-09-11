@@ -1,6 +1,6 @@
 class Player
   def name
-    'Default Player'
+    'Drew'
   end
   
   def move options={}
